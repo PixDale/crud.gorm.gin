@@ -1,4 +1,4 @@
-module task.list.api
+module crud.gorm.gin
 
 go 1.14
 
